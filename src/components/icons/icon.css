@@ -1,0 +1,17 @@
+.icon{
+    width:35px;
+    height:35px;
+    background-image: url('../../images/android-chrome-192x192.png');
+    background-size: cover;
+    border: 2px solid #000000;
+}
+.icon--black{
+    background-image: url('../../images/black.png');
+    border: 2px solid #ffffff;
+    width:60px;
+    height: 60px;
+}
+.icon:hover{
+    background-image: url('../../images/black.png');
+    border: 2px solid #ffffff;
+}

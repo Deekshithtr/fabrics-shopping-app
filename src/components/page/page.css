@@ -1,0 +1,36 @@
+.container1{
+    width:100vw;
+    height:100vh;
+   display: flex;
+   align-items: center;
+   justify-content: left;
+    background-color: #ffffff;
+    background-image: url('../../images/men.jpg');
+    background-size:cover ;
+}
+.container1--container2{
+    
+    background-image: url('../../images/women4.jpg');
+    justify-content: right;
+}
+.container1--container3{
+    background-image: url('../../images/kids6.jpg');
+    
+}
+.container1__info{
+    width:500px;
+    height:500px;
+    background-color: #ffffff;
+    opacity: 0.8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    font-size: 40px;
+    font-weight: 600;
+    margin:0px 90px;
+    border-radius: 50%;
+}
+.container1__info p{
+    max-width: 450px;
+}

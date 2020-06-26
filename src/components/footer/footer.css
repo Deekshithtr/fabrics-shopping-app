@@ -1,0 +1,20 @@
+footer{
+    width:100vw;
+    height:150px;
+    background-color: #000000;
+    padding:10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #ffffff;
+    font-size: 16px;
+    min-width: 638px;
+}
+footer p{
+    font-family: cursive;
+    font-size: 20px;
+}
+.footer-icon{
+    display: flex;
+    flex-direction: column;
+}

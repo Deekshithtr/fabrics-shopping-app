@@ -1,0 +1,18 @@
+.button{
+    background-color: #000000;
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    animation-name: colors;
+    animation-duration:1s;
+    animation-fill-mode: forwards;
+}
+@keyframes colors{
+    0%{background:linear-gradient(to left, #000000, #10228a);}
+    50%{background:linear-gradient(to left,#103da0, #14588f );}
+    100%{background:linear-gradient(to left, #1486a3, #1380c0);}
+}
