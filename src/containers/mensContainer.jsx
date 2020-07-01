@@ -1,8 +1,8 @@
 import React from 'react';
-
+import Grid from '../components/grid';
 const MensDashBoard=()=>{
     return(
-        <span>hello</span>
+        <Grid />
     )
 }
 export default MensDashBoard;

@@ -1,0 +1,12 @@
+export const data=[{"url":"https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60","title":"men"},
+{"url":"https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60","title":"men"},
+{"url":"https://images.unsplash.com/flagged/photo-1571367034861-e6729ad9c2d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60","title":"men"},
+{"url":"https://images.unsplash.com/photo-1565963925128-eebd45213b1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60","title":"kids"},
+{"url":"https://images.unsplash.com/photo-1519167130418-c3640bd21b7e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60","title":"women"},
+{"url":"https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60","title":"kids"},
+{"url":"https://images.unsplash.com/photo-1552323356-322f06b49db4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60","title":"women"},
+{"url":"https://images.unsplash.com/photo-1549291501-ecf9d358cf99?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60","title":"women"},
+{"url":"https://images.unsplash.com/photo-1585728748176-455ac5eed962?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60","title":"women"},
+{"url":"https://images.unsplash.com/photo-1583846717393-dc2412c95ed7?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60","title":"women"},
+{"url":"https://images.unsplash.com/photo-1582623127508-3bbea01a4bb7?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60","title":"women"},
+{"url":"https://images.unsplash.com/photo-1582623081787-05843bd8947a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=807&q=80","title":"women"}];
