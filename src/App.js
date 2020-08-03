@@ -9,7 +9,7 @@ function App() {
     <div className="App">
     
     <Home />
-    {<Routes />}
+    <Routes />
     </div>
   );
 }

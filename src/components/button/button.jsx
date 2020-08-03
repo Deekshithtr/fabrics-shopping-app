@@ -13,9 +13,7 @@ const propTypes={
 }
 const Button=({label,id})=>{
 return (
-
 <button className="button button--container1-button">{label}</button>
-
 )
 }
 
